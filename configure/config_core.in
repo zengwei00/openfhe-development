@@ -7,7 +7,7 @@
 #cmakedefine WITH_BE2
 #cmakedefine WITH_BE4
 #cmakedefine WITH_NOISE_DEBUG
-#cmakedefine WITH_NTL
+#cmakedefine WITH_NTLz
 #cmakedefine WITH_TCM
 
 #cmakedefine CKKS_M_FACTOR @CKKS_M_FACTOR@
